@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BD Mascotas</string>
+    <string name="btn_inicio">Ver mascotas</string>
+    <string name="nombre">Gatito</string>
+    <string name="mp_favoritas">Favoritas</string>
+    <string name="mp_contacto">Contacto</string>
+    <string name="mp_acerca">Acerce de</string>
+    <string name="tvNombre">Nombre</string>
+    <string name="tvEmail">Email</string>
+    <string name="tvComentario">Comentario</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="autor">Susana Beatriz</string>
+    <string name="lugar">UNSJ - FCEFyN</string>
+    <string name="fecha">"@2016 - All rights reserved "</string>
+
+</resources>

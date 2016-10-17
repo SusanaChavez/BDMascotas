@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/vStart"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/vstart"
+        android:title="@string/mp_favoritas"
+        android:orderInCategory="100">
+    </item>
+    <item
+        android:id="@+id/mpContacto"
+        android:title="@string/mp_contacto"
+        android:orderInCategory="100">
+    </item>
+    <item
+        android:id="@+id/mpAcerca"
+        android:title="@string/mp_acerca"
+        android:orderInCategory="101">
+    </item>
+
+</menu>
